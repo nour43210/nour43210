@@ -69,16 +69,7 @@ https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoC
 Predictive Maintenance System • 92% Accuracy • Real-time Anomaly Detection
 
 python
-# Tech Stack
-["Python", "Flask", "Plotly", "Isolation Forest", "Real-time Analytics"]
-🎯 Impact: 40% cost savings • Zero unplanned downtime • Proactive maintenance alerts
 
-<div align="center">
-https://img.shields.io/badge/Python-100%2525-3776AB?style=flat-square
-https://img.shields.io/badge/Accuracy-92%2525-4CAF50?style=flat-square
-https://img.shields.io/badge/Status-Production-8A2BE2?style=flat-square
-
-</div>
 🎬 Movie Recommendation System
 Intelligent Recommender • 100K+ Ratings Dataset • Collaborative Filtering
 
