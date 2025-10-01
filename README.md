@@ -21,11 +21,7 @@ I'm a passionate Data Scientist and AI Specialist with 2+ years of experience in
 🌍 Multilingual Data Scientist
 <table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/Arabic-Native-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Native Proficiency</strong> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/English-B2-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Upper Intermediate</strong> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/French-B2-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Upper Intermediate</strong> </td> </tr> </table></div>
 
-<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nour43210&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=8A2BE2&area=true&hide_border=true)
-
-</div>
 <div align="center">
 📞 Let's Connect & Collaborate
 <div align="center">
