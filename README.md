@@ -44,8 +44,10 @@ I'm a passionate Data Scientist and AI Specialist with 2+ years of experience in
 
 </div>
 <div align="center">
-📈 "Data is the new oil, and AI is the refinery that turns it into value"
-https://api.visitorbadge.io/api/visitors?path=https%253A%252F%252Fgithub.com%252Fnour43210&label=PROFILE%2520VIEWS&labelColor=%25230d1117&countColor=%25238A2BE2&style=flat
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nour43210&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=8A2BE2&area=true&hide_border=true)
+
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnour43210&label=PROFILE%20VIEWS&labelColor=%230d1117&countColor=%238A2BE2&style=flat)
 
 </div>
 
