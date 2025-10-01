@@ -1,4 +1,4 @@
-resend me 💫 Nour Elbanna
+💫 Nour Elbanna
 Data Scientist | AI Specialist | Machine Learning Engineer
 
 <div align="center"><!-- Animated Header --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Specialist;Machine+Learning+Engineer;Open+to+Collaborations!" alt="Typing Animation" /><!-- Metrics --><div align="center">
