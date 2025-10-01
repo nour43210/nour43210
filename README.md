@@ -22,58 +22,7 @@ I'm a passionate Data Scientist and AI Specialist with 2+ years of experience in
 <div align="center">
 🌍 Multilingual Data Scientist
 <table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/Arabic-Native-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Native Proficiency</strong> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/English-B2-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Upper Intermediate</strong> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/French-B2-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Upper Intermediate</strong> </td> </tr> </table></div>
-🛠️ Technical Arsenal
-💻 Programming & Development
-<div align="center">
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
 
-</div>
-🤖 Data Science & AI
-<div align="center">
-https://img.shields.io/badge/Machine%2520Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Deep%2520Learning-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/Natural%2520Language%2520Processing-4ECDC4?style=for-the-badge
-https://img.shields.io/badge/Data%2520Analysis-45B7D1?style=for-the-badge
-https://img.shields.io/badge/Computer%2520Vision-96CEB4?style=for-the-badge
-
-</div>
-🌐 Web & Frameworks
-<div align="center">
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-
-</div>
-🛠️ Tools & Platforms
-<div align="center">
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white
-
-</div>
-🏆 Professional Journey
-💼 Work Experience
-<table> <tr> <td width="80"> <img src="https://img.shields.io/badge/2023--2025-8A2BE2?style=for-the-badge" /> </td> <td> <strong>Data Scientist</strong> • Flickey Agency<br/> <em>Moderated marketing analytics • Customer behavior analysis • Predictive modeling</em><br/> 🎯 <strong>Key Achievements:</strong> Improved marketing strategy through data-driven insights </td> </tr> <tr> <td> <img src="https://img.shields.io/badge/2022--2025-8A2BE2?style=for-the-badge" /> </td> <td> <strong>Volunteer Tutor & Mentor</strong> • Bibliotheca Alexandrina<br/> <em>Mentored 20+ volunteers • Environmental workshops • Community leadership</em><br/> 🎯 <strong>Impact:</strong> Fostered teamwork and sustainability awareness </td> </tr> </table>
-🎓 Education & Certifications
-<table> <tr> <td width="80"> <img src="https://img.shields.io/badge/2023--2027-8A2BE2?style=for-the-badge" /> </td> <td> <strong>Bachelor of Computer Science</strong><br/> <em>Alexandria National University • Data Science & AI Specialization</em> </td> </tr> <tr> <td> <img src="https://img.shields.io/badge/2025-8A2BE2?style=for-the-badge" /> </td> <td> <strong>DEPI Data Science Program</strong><br/> <em>Technical & Soft Skills Tracks • Real-world Applications</em> </td> </tr> </table>
-🚀 Featured Projects
-🤖 Machine Health Guardian
-Predictive Maintenance System • 92% Accuracy • Real-time Anomaly Detection
-
-python
-
-🎬 Movie Recommendation System
-Intelligent Recommender • 100K+ Ratings Dataset • Collaborative Filtering
-
-python
 # Features
 ["Personalized Recommendations", "Scalable Architecture", "User Behavior Analysis"]
 📊 Scale: 9,700 movies • 610 users • Advanced pattern recognition
