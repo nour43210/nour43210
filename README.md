@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Nour Elbanna
 
-<!--
-**nour43210/nour43210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist | AI Specialist | Python Developer**
 
-Here are some ideas to get you started:
+📍 Alexandria, Egypt • 📧 nousahmedelabanna@gmail.com • 👩‍💻 she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+**Programming:** Python, Java, JavaScript, R, SQL  
+**Data Science:** Machine Learning, Deep Learning, NLP  
+**Web Development:** HTML/CSS, Bootstrap, React  
+**Tools:** TensorFlow, PyTorch, Flask, Git
+
+## 💼 Experience
+- **Data Scientist** @ Flickey Agency (2023-2025)
+- **Volunteer Tutor** @ Bibliotheca Alexandrina (2022-2025)  
+- **AI Student** @ Alexandria National University (2023-2027)
+
+## 🌟 Featured Projects
+- 🤖 **Machine Health Guardian** - Predictive maintenance system
+- 🎬 **Movie Recommendation System** - ML-based recommender
+- 🐦 **Sentiment Analysis on Tweets** - NLP classification
+- 🚗 **Smart Car Rental System** - Full-stack web application
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-el-banna-a94732351)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nousahmedelabanna@gmail.com)
