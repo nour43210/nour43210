@@ -1,13 +1,13 @@
+💫 Nour Elbanna
+Data Scientist | AI Specialist | Machine Learning Engineer
 
-# 💫 Nour Elbanna
-**Data Scientist | AI Specialist | Machine Learning Engineer**
+<div align="center"><!-- Animated Header --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Specialist;Machine+Learning+Engineer;Open+to+Collaborations!" alt="Typing Animation" /><!-- Metrics --><div align="center">
+https://komarev.com/ghpvc/?username=nour43210&color=8A2BE2&style=for-the-badge
+https://img.shields.io/github/followers/nour43210?style=for-the-badge&color=8A2BE2&logo=github
+https://img.shields.io/badge/Repositories-8-blue?style=for-the-badge
+https://img.shields.io/badge/Experience-2+yrs-8A2BE2?style=for-the-badge
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=nour43210&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/nour43210?style=social)
-![Repositories](https://img.shields.io/badge/Repositories-8-blue)
-
-</div>
+</div></div>
 
 ## 👋 About Me
 I'm a Data Scientist passionate about turning data into insightful information, demographics, and visualizations. Specialized in AI and machine learning with expertise in project management, collaboration, and community engagement.
