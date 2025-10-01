@@ -159,3 +159,62 @@ I'm a passionate Data Scientist and AI Specialist with 2+ years of experience in
 ```python
 # Tech Stack
 ["Python", "Flask", "Plotly", "Isolation Forest", "Real-time Analytics"]
+🎯 Impact: 40% cost savings • Zero unplanned downtime • Proactive maintenance alerts
+
+<div align="center">
+https://img.shields.io/badge/Python-100%2525-3776AB?style=flat-square
+https://img.shields.io/badge/Accuracy-92%2525-4CAF50?style=flat-square
+https://img.shields.io/badge/Status-Production-8A2BE2?style=flat-square
+
+</div>
+🎬 Movie Recommendation System
+Intelligent Recommender • 100K+ Ratings Dataset • Collaborative Filtering
+
+python
+# Features
+["Personalized Recommendations", "Scalable Architecture", "User Behavior Analysis"]
+📊 Scale: 9,700 movies • 610 users • Advanced pattern recognition
+
+🎭 Sentiment Analysis on Tweets
+NLP Classification • Real-time Sentiment Tracking • Social Media Analytics
+
+python
+# Technologies
+["Deep Learning", "Transformers", "Real-time Processing", "Social Trends"]
+🔍 Applications: Brand monitoring • Public opinion analysis • Market research
+
+🚗 Smart Car Rental System
+Full-Stack Solution • Digital Transformation • User-friendly Interface
+
+javascript
+// Tech Stack
+["JavaScript", "PHP/Node.js", "MySQL", "Bootstrap", "REST APIs"]
+💡 Innovation: Streamlined rental process • Inventory management • Booking automation
+
+📊 GitHub Analytics
+<div align="center"><!-- GitHub Stats --><a href="https://github.com/nour43210"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nour43210&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour43210&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" /> </a><!-- Streak Stats --><a href="https://github.com/nour43210"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nour43210&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" /> </a><!-- Activity Graph -->
+https://github-readme-activity-graph.vercel.app/graph?username=nour43210&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=8A2BE2&area=true&hide_border=true
+
+</div>
+🌐 Connect With Me
+<div align="center"><!-- Social Links -->
+https://img.shields.io/badge/LinkedIn-Connect%2520Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-Collaborate%2520With%2520Me-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Portfolio-View%2520My%2520Work-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Kaggle-Data%2520Science%2520Projects-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white
+https://img.shields.io/badge/Twitter-Follow%2520My%2520Journey-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
+</div>
+🎯 Current Focus & Availability
+<div align="center">
+🔥 Open to Exciting Opportunities & Collaborations!
+<table> <tr> <td align="center"> <strong>🤝 Collaborations</strong><br/> Research • Open Source • Innovative Projects </td> <td align="center"> <strong>💼 Opportunities</strong><br/> Data Science • AI Engineering • ML Roles </td> <td align="center"> <strong>🌟 Mentorship</strong><br/> Guiding Aspiring Data Scientists </td> </tr> </table>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Let's+build+the+future+with+AI+together!;Innovating+through+data-driven+solutions;Transforming+ideas+into+intelligent+systems" alt="Collaboration Message" />
+⭐ Feel free to explore my repositories and reach out for collaboration! ⭐
+
+</div>
+<div align="center">
+📈 "Data is the new oil, and AI is the refinery that turns it into value"
+https://api.visitorbadge.io/api/visitors?path=https%253A%252F%252Fgithub.com%252Fnour43210&label=PROFILE%2520VIEWS&labelColor=%25230d1117&countColor=%25238A2BE2&style=flat
+
+</div> ```
