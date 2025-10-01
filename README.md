@@ -1,7 +1,12 @@
 
-# Nour Elbanna 
-**Data Scientist | AI Specialist** 
+# 💫 Nour Elbanna
+**Data Scientist | AI Specialist | Machine Learning Engineer**
 
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nour43210&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=8A2BE2&area=true&hide_border=true)
+
+</div>
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nour43210&color=blueviolet)
