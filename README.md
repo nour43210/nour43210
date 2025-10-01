@@ -1,11 +1,7 @@
-💫 Nour Elbanna
-Data Scientist | AI Specialist | Machine Learning Engineer
+# 💫 Nour Elbanna
+**Data Scientist | AI Specialist | Machine Learning Engineer**
 
 <div align="center"><!-- Animated Header --><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Specialist;Machine+Learning+Engineer;Open+to+Collaborations!" alt="Typing Animation" /><!-- Metrics --><div align="center">
-https://komarev.com/ghpvc/?username=nour43210&color=8A2BE2&style=for-the-badge
-https://img.shields.io/github/followers/nour43210?style=for-the-badge&color=8A2BE2&logo=github
-https://img.shields.io/badge/Repositories-8-blue?style=for-the-badge
-https://img.shields.io/badge/Experience-2+yrs-8A2BE2?style=for-the-badge
 
 </div></div>
 
