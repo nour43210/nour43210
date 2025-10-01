@@ -31,16 +31,7 @@ NLP Classification • Real-time Sentiment Tracking • Social Media Analytics
 
 python
 # Technologies
-["Deep Learning", "Transformers", "Real-time Processing", "Social Trends"]
-🔍 Applications: Brand monitoring • Public opinion analysis • Market research
 
-🚗 Smart Car Rental System
-Full-Stack Solution • Digital Transformation • User-friendly Interface
-
-javascript
-// Tech Stack
-["JavaScript", "PHP/Node.js", "MySQL", "Bootstrap", "REST APIs"]
-💡 Innovation: Streamlined rental process • Inventory management • Booking automation
 
 📊 GitHub Analytics
 <div align="center"><!-- GitHub Stats --><a href="https://github.com/nour43210"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nour43210&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour43210&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" /> </a><!-- Streak Stats --><a href="https://github.com/nour43210"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nour43210&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" /> </a><!-- Activity Graph -->
