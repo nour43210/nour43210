@@ -22,22 +22,7 @@ I'm a passionate Data Scientist and AI Specialist with 2+ years of experience in
 🌍 Multilingual Data Scientist
 <table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/Arabic-Native-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Native Proficiency</strong> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/English-B2-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Upper Intermediate</strong> </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/French-B2-8A2BE2?style=for-the-badge&logo=language&logoColor=white" /> <br/> <strong>Upper Intermediate</strong> </td> </tr> </table></div>
 
-# Features
-["Personalized Recommendations", "Scalable Architecture", "User Behavior Analysis"]
-📊 Scale: 9,700 movies • 610 users • Advanced pattern recognition
 
-🎭 Sentiment Analysis on Tweets
-NLP Classification • Real-time Sentiment Tracking • Social Media Analytics
-
-python
-# Technologies
-
-
-📊 GitHub Analytics
-<div align="center"><!-- GitHub Stats --><a href="https://github.com/nour43210"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nour43210&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour43210&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" /> </a><!-- Streak Stats --><a href="https://github.com/nour43210"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nour43210&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" /> </a><!-- Activity Graph -->
-https://github-readme-activity-graph.vercel.app/graph?username=nour43210&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=8A2BE2&area=true&hide_border=true
-
-</div>
 📞 Let's Connect & Collaborate
 <div align="center">
 💼 Professional Networks & Platforms
@@ -57,6 +42,15 @@ https://github-readme-activity-graph.vercel.app/graph?username=nour43210&bg_colo
 <div align="center">
 📈 "Data is the new oil, and AI is the refinery that turns it into value"
 https://api.visitorbadge.io/api/visitors?path=https%253A%252F%252Fgithub.com%252Fnour43210&label=PROFILE%2520VIEWS&labelColor=%25230d1117&countColor=%25238A2BE2&style=flat
+
+</div>
+
+# Technologies
+
+
+📊 GitHub Analytics
+<div align="center"><!-- GitHub Stats --><a href="https://github.com/nour43210"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nour43210&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour43210&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff" /> </a><!-- Streak Stats --><a href="https://github.com/nour43210"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nour43210&theme=radical&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" /> </a><!-- Activity Graph -->
+https://github-readme-activity-graph.vercel.app/graph?username=nour43210&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=8A2BE2&area=true&hide_border=true
 
 </div>
 🗓️ Response Time & Availability
